@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">RecepcionCamiones</string>
     <string name="envio_ok">Placa registrada</string>
+    <string name="latitude_label">Latitud</string>
+    <string name="longitude_label">Longitud</string>
+    <string name="no_location_detected">No se detecto la ubicacion. Revise que la localizacion este habilitada. </string>
+    <string name="permission_rationale">Se necesita permiso de localizacion para la recepcion de equipos</string>
+    <string name="permission_denied_explanation">El permiso fue rechazado, pero se necesita para trabajar</string>
+    <string name="settings">Configuracio</string>
 </resources>
